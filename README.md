@@ -1,5 +1,6 @@
 # plactica-html
 
+codigo
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -13,10 +14,6 @@
     </style>
 </head>
 <body>
-
-</body>
-</html>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -80,7 +77,11 @@
     <div class="image-container"></div>
 </body>
 </html>
-
 ejecucionj
 
-![image](https://github.com/user-attachments/assets/b8bb723f-2ea5-4f4d-9347-377621621fcd)
+![image](https://github.com/user-attachments/assets/a744d0f3-02c1-4cee-9a9c-656f057d323e)
+
+codigo
+![image](https://github.com/user-attachments/assets/df48e962-675a-4b1e-93f9-3f435ccb3281)
+
+
