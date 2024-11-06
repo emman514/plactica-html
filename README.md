@@ -1,4 +1,5 @@
 # plactica-html
+PROFE ABRA EN LOS ARCHIVOS PLACTICA 1 HTML LOS DMAS SON IMAGENES
 
 ejecucion
 
